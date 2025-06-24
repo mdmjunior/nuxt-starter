@@ -1,7 +1,7 @@
 <script setup>
 useHead({
   htmlAttrs: { lang: "en-US" },
-  title: "Nuxt Starter",
+  title: "Marcio Moreira Junior",
   meta: [
     {
       name: "description",
